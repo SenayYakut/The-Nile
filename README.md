@@ -6,7 +6,7 @@ The Nile fullfilment agency brings everything you could possibly want straight t
 
 
 ## Installation
-'''bash
+'''
 https://github.com/SenayYakut/The-Nile.git
 '''
 ## Usage
